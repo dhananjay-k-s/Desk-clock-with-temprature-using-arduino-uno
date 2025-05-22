@@ -46,6 +46,25 @@ The display cycles through different information modes:
 
 Each display mode shows for 5 seconds before cycling to the next.
 
+## Images
+
+
+## Screenshort 
+<div>
+  <img  src = "https://github.com/dhananjay-k-s/Local_music_player/blob/main/Screenshots/photo_2025-05-22_19-40-16.jpg" height = 600 />
+<img  src = "https://github.com/dhananjay-k-s/Local_music_player/blob/main/Screenshots/photo_2025-05-22_19-40-57.jpg" height = 600 />
+
+</div>
+
+## Circuit Diagram
+
+
+## Screenshort 
+<div>
+  <img  src = "https://github.com/dhananjay-k-s/Local_music_player/blob/main/Screenshots/photo_2025-05-22_19-40-16.jpg" height = 600 />
+
+</div>
+
 ## Installation
 
 1. Install all required libraries in Arduino IDE
